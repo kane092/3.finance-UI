@@ -1,0 +1,1383 @@
+[
+  {
+    "name": "SorAi",
+    "symbol": "SorAi",
+    "type": "3FiCollateral",
+    "depositsFullName": "3Fi NFTs - SorAi",
+    "depositsSymbol": "./images/token7.png",
+    "depositsAPR": 228.86,
+    "depositsTVL": 0,
+    "depositsLP": 0,
+    "requirementA": 1000000,
+    "requirementB": 10000000,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "MatAi",
+    "symbol": "MatAi",
+    "type": "3FiCollateral",
+    "depositsFullName": "3Fi NFTs - MatAi",
+    "depositsSymbol": "./images/token7.png",
+    "depositsAPR": 228.86,
+    "depositsTVL": 0,
+    "depositsLP": 0,
+    "requirementA": 100000,
+    "requirementB": 1000000,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "MolAi",
+    "symbol": "MolAi",
+    "type": "3FiCollateral",
+    "depositsFullName": "3Fi NFTs - MolAi",
+    "depositsSymbol": "./images/token7.png",
+    "depositsAPR": 228.86,
+    "depositsTVL": 0,
+    "depositsLP": 0,
+    "requirementA": 10000,
+    "requirementB": 100000,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "TomAi",
+    "symbol": "TomAi",
+    "type": "3FiCollateral",
+    "depositsSymbol": "./images/token7.png",
+    "depositsFullName": "3Fi NFTs - TomAi",
+    "depositsAPR": 228.86,
+    "depositsTVL": 0,
+    "depositsLP": 0,
+    "requirementA": 1000,
+    "requirementB": 10000,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "ParAi",
+    "symbol": "ParAi",
+    "type": "3FiCollateral",
+    "depositsFullName": "3Fi NFTs - ParAi",
+    "depositsSymbol": "./images/token7.png",
+    "depositsAPR": 17.1234,
+    "depositsTVL": 0,
+    "depositsLP": 0,
+    "emissionsAPR": 0,
+    "emissionsDeposit": 0,
+    "emissionsTCE": 0,
+    "emissionsCollected": 0,
+    "emissionsBalance": 0,
+    "emissionsAllocated": 0,
+    "requirementA": 100,
+    "requirementB": 1000,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "3Fi",
+    "symbol": "3FiToken",
+    "type": "3FiCollateral",
+    "depositsFullName": "3Fi Collateral - CRV Base",
+    "depositsSymbol": "./images/token1.png",
+    "depositsAPR": 228.86,
+    "depositsTVL": 103590041,
+    "depositsLP": 0,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "FRAX",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "CRV wallet",
+    "symbol": "CRVWallet",
+    "type": "3FiCollateralWallets",
+    "emissionsFullName": "3Fi Collateral - CRV wallet",
+    "emissionsSymbol": "./images/token12.png",
+    "emissionsBalance": 0,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "FRAX",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      }
+    ],
+    "crvDistributeList": [
+      {
+        "name": "TBC",
+        "logo": "./images/details7.png",
+        "amount": 34
+      },
+      {
+        "name": "Alchemix",
+        "logo": "./images/alchemix.png",
+        "amount": 40
+      },
+      {
+        "name": "TBC",
+        "logo": "./images/details7.png",
+        "amount": 16
+      },
+      {
+        "name": "TBC",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "TBC",
+        "logo": "./images/details7.png",
+        "amount": 0
+      }
+    ],
+    "usdDistributeList": [
+      {
+        "name": "TBC",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Tokemak",
+        "logo": "./images/tokemak.png",
+        "amount": 0
+      },
+      {
+        "name": "TBC",
+        "logo": "./images/details7.png",
+        "amount": 0
+      }
+    ],
+    "crvManageList": [
+      {
+        "name": "App1",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App2",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App3",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App4",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App5",
+        "logo": "./images/details7.png",
+        "amount": 0
+      }
+    ],
+    "usdManageList": [
+      {
+        "name": "App1",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App2",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App3",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App4",
+        "logo": "./images/details7.png",
+        "amount": 0
+      },
+      {
+        "name": "Money App5",
+        "logo": "./images/details7.png",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "name": "Curve",
+    "symbol": "CRV",
+    "type": "CompoundFields",
+    "tokens": ["CRV", "sdCRV"],
+    "depositsFullName": "Curve C.D.P",
+    "depositsSymbol": "./images/token2.png",
+    "depositsAPR": 104.8621,
+    "depositsTVL": 901490041,
+    "depositsLP": 0,
+    "depositsDepositAsset": [10000, 100000],
+    "depositsReRouteAsset": 1000,
+    "emissionsFullName": "Curve Collection",
+    "emissionsSymbol": "./images/token9.png",
+    "emissionsTCE": 1234567890.00,
+    "emissionsAPR": 28.86,
+    "emissionsDeposit": 28.86,
+    "emissionsCollected": 1234.00,
+    "emissionList": [
+      {
+        "emissionName": "SDT",
+        "emissionLogo": "./images/details3.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      },
+      {
+        "emissionName": "3CRV",
+        "emissionLogo": "./images/details4.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "cvxCRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 16,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      }
+    ],
+    "rerouteDepositMessage": "Reroute StakeDAO deposits through 3.Finance?",
+    "termsMessage": "CRV is permanently converted to sdCRV and is locked for 12 week. CRV reversions require secondary markets."
+  },
+  {
+    "name": "Convex",
+    "symbol": "CVX",
+    "type": "CompoundFields",
+    "tokens": ["CVX", "vlBCVX"],
+    "depositsFullName": "Convex C.D.P",
+    "depositsSymbol": "./images/token3.png",
+    "depositsAPR": 78.4241,
+    "depositsTVL": 641253508,
+    "depositsLP": 0,
+    "depositsDepositAsset": [1000.00, 100000.00],
+    "depositsReRouteAsset": 250000.00,
+    "emissionsFullName": "Convex Collection",
+    "emissionsSymbol": "./images/token10.png",
+    "emissionsTCE": 1234567890.00,
+    "emissionsAPR": 28.86,
+    "emissionsDeposit": 28.86,
+    "emissionsCollected": 5678.00,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CVX",
+        "emissionLogo": "./images/details5.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      },
+      {
+        "emissionName": "BENT",
+        "emissionLogo": "./images/details6.png",
+        "emissionAmount": 16,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      }
+    ],
+    "rerouteDepositMessage": "Reroute BentFinance deposits through 3.Finance?",
+    "termsMessage": "CVX is permanently converted to vlBCVX. No lock is applied. CVX reversions require secondary markets."
+  },
+  {
+    "name": "Bent",
+    "symbol": "BENT",
+    "type": "CompoundFields",
+    "tokens": ["BENT", "vlBENT"],
+    "depositsFullName": "Bent C.D.P",
+    "depositsSymbol": "./images/token4.png",
+    "wrapperSymbol": "./images/token-wrapper-crv.png",
+    "depositsAPR": 128.86,
+    "depositsTVL": 84653757,
+    "depositsLP": 0,
+    "depositsDepositAsset": [1000.00, 100000.00],
+    "depositsReRouteAsset": 250000.00,
+    "emissionsFullName": "Bent Collection",
+    "emissionsSymbol": "./images/token11.png",
+    "emissionsTCE": 1234567890.00,
+    "emissionsAPR": 28.86,
+    "emissionsDeposit": 28.86,
+    "emissionsCollected": 9123.00,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CVX",
+        "emissionLogo": "./images/details5.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      },
+      {
+        "emissionName": "BENT",
+        "emissionLogo": "./images/details6.png",
+        "emissionAmount": 16,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      }
+    ],
+    "rerouteDepositMessage": "Reroute BentFinance deposits through 3.Finance?",
+    "termsMessage": "BENT is locked for a term of 8 weeks. No relocks are required to continue recieving emission."
+  },
+  {
+    "name": "cvxCRV",
+    "symbol": "cvxCRV",
+    "type": "OtherFields",
+    "tokens": ["cvxCRV", "cvxCRV LP"],
+    "depositsFullName": "cvxCRV pool",
+    "depositsSymbol": "./images/token-3crv.png",
+    "wrapperSymbol": "./images/token-wrapper-crv.png",
+    "depositsAPR": 128.86,
+    "depositsTVL": 84653757,
+    "depositsLP": 0,
+    "depositsDepositAsset": [1000.00, 100000.00, 10000.00],
+    "depositsReRouteAsset": 250000.00,
+    "depositsFlag": true,
+    "emissionsSymbol": "./images/token-3crv.png",
+    "emissionsFullName": "cvxCRV Collection",
+    "emissionsTCE": 1234567890.00,
+    "emissionsAPR": 28.86,
+    "emissionsCollected": 12345.00,
+    "emissionRateWithCRV": 3.17,
+    "emissionRateWithCVX": 0.17,
+    "emissionRateWithBENT": 6.67,
+    "emissionList": [
+      {
+        "emissionName": "TBC",
+        "emissionLogo": "./images/details7.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      },
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "CVX",
+        "emissionLogo": "./images/details5.png",
+        "emissionAmount": 16,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      },
+      {
+        "emissionName": "BENT",
+        "emissionLogo": "./images/details6.png",
+        "emissionAmount": 4,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "FRAX",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 1,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      }
+    ],
+    "rerouteDepositMessage": "Reroute Curve deposits through 3.Finance?",
+    "termsMessage": "CRV is permanently converted to sdCRV and is locked for 12 week. CRV reversions require secondary markets."
+  },
+  {
+    "name": "SDT",
+    "symbol": "SDT",
+    "type": "OtherFields",
+    "tokens": ["SDT", "cvxSDT", "cvxSDT LP"],
+    "depositsFlag": true,
+    "depositsFullName": "SDT pool in Curve",
+    "depositsSymbol": "./images/token-sdk.png",
+    "wrapperSymbol": "./images/token-wrapper-crv.png",
+    "depositsAPR": 128.86,
+    "depositsTVL": 84653757,
+    "depositsLP": 0,
+    "depositsDepositAsset": [1000.00, 100000.00, 10000.00],
+    "depositsReRouteAsset": 250000.00,
+    "emissionsSymbol": "./images/token-sdk.png",
+    "emissionsFullName": "SDT Collection",
+    "emissionsTCE": 1234567890.00,
+    "emissionsAPR": 28.86,
+    "emissionsCollected": 1234.00,
+    "emissionRateWithBENT": 4.00,
+    "emissionList": [
+      {
+        "emissionName": "SDT",
+        "emissionLogo": "./images/details3.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      },
+      {
+        "emissionName": "3CRV",
+        "emissionLogo": "./images/details4.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "cvxCRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 16,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      }
+    ],
+    "rerouteDepositMessage": "Reroute StakeDAO deposits through 3.Finance?",
+    "termsMessage": "SDT is permanently converted to cvxSDT and is locked for 12 week. SDT reversions require secondary markets."
+  },
+  {
+    "name": "[token1]",
+    "symbol": "[token1]",
+    "type": "OtherFields",
+    "tokens": ["token11", "token12", "token13"],
+    "depositsSymbol": "./images/details7.png",
+    "wrapperSymbol": "./images/token-wrapper-tbc.png",
+    "depositsFullName": "<Liquid Token Name1>",
+    "depositsAPR": 128.86,
+    "depositsTVL": 84653757,
+    "depositsLP": 0,
+    "depositsDepositAsset": [1000.00, 100000.00, 10000.00],
+    "emissionsSymbol": "./images/details7.png",
+    "emissionsFullName": "<Liquid Token> Collection",
+    "emissionsTCE": 1234567890.00,
+    "emissionsAPR": 28.86,
+    "emissionsCollected": 0,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      },
+      {
+        "emissionName": "FRAX",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "SDT",
+        "emissionLogo": "./images/details3.png",
+        "emissionAmount": 16,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      },
+      {
+        "emissionName": "3CRV",
+        "emissionLogo": "./images/details4.png",
+        "emissionAmount": 4,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionLogo": "./images/details5.png",
+        "emissionAmount": 1,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "[token2]",
+    "symbol": "[token2]",
+    "type": "OtherFields",
+    "tokens": ["token21", "token22", "token23"],
+    "depositsSymbol": "./images/details7.png",
+    "wrapperSymbol": "./images/token-wrapper-tbc.png",
+    "depositsFullName": "<Liquid Token Name2>",
+    "depositsAPR": 128.86,
+    "depositsTVL": 84653757,
+    "depositsLP": 0,
+    "depositsDepositAsset": [1000.00, 100000.00, 10000.00],
+    "emissionsSymbol": "./images/details7.png",
+    "emissionsFullName": "<Liquid Token> Collection",
+    "emissionsTCE": 1234567890.00,
+    "emissionsAPR": 28.86,
+    "emissionsCollected": 0,
+    "emissionList": [
+      {
+        "emissionName": "CRV",
+        "emissionLogo": "./images/details1.png",
+        "emissionAmount": 40,
+        "emissionAverage": {
+          "CRV": {
+            "One": 4.06,
+            "Month": 2.35,
+            "QuarterYear": 1.01,
+            "HalfYear": 0.63
+          },
+          "CVX": {
+            "One": 2.03,
+            "Month": 2.61,
+            "QuarterYear": 1.97,
+            "HalfYear": 2.49
+          },
+          "BENT": {
+            "One": 12.87,
+            "Month": 7.16,
+            "QuarterYear": 2.49,
+            "HalfYear": 1.65
+          }
+        }
+      },
+      {
+        "emissionName": "FRAX",
+        "emissionLogo": "./images/details2.png",
+        "emissionAmount": 34,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionName": "SDT",
+        "emissionLogo": "./images/details3.png",
+        "emissionAmount": 16,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      },
+      {
+        "emissionName": "3CRV",
+        "emissionLogo": "./images/details4.png",
+        "emissionAmount": 4,
+        "emissionAverage": {
+          "CRV": {
+            "One": 1.00,
+            "Month": 1.00,
+            "QuarterYear": 1.00,
+            "HalfYear": 1.00
+          },
+          "CVX": {
+            "One": 1.14,
+            "Month": 1.02,
+            "QuarterYear": 0.93,
+            "HalfYear": 1.33
+          },
+          "BENT": {
+            "One": 14.35,
+            "Month": 9.82,
+            "QuarterYear": 4.28,
+            "HalfYear": 2.37
+          }
+        }
+      },
+      {
+        "emissionLogo": "./images/details5.png",
+        "emissionAmount": 1,
+        "emissionAverage": {
+          "CRV": {
+            "One": 0.63,
+            "Month": 0.35,
+            "QuarterYear": 0.51,
+            "HalfYear": 0.49
+          },
+          "CVX": {
+            "One": 0.84,
+            "Month": 0.82,
+            "QuarterYear": 0.73,
+            "HalfYear": 0.93
+          },
+          "BENT": {
+            "One": 12.35,
+            "Month": 8.82,
+            "QuarterYear": 2.28,
+            "HalfYear": 1.37
+          }
+        }
+      }
+    ]
+  }
+]

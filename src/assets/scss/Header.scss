@@ -1,0 +1,118 @@
+$md: 900px;
+
+@mixin md {
+  @media (min-width: #{$md}) {
+    @content;
+  }
+}
+
+.Header {
+  position: fixed;
+  width: 100vw;
+
+  // transition: all 900ms;
+  @include md {
+    // background-image: url('../images/background-default.png');
+    background-size: cover;
+    background-position: top;
+  }
+
+  .duration-300 {
+    transition: all;
+    transition-duration: 300ms;
+  }
+
+  .duration-900 {
+    transition: all;
+    transition-duration: 900ms;
+  }
+
+  .duration-1800 {
+    transition: all;
+    transition-duration: 1800ms;
+  }
+
+  #myheader {
+    transition: all 900ms;
+  }
+
+  #myHeader.sticky {
+    display: block;
+  }
+
+  .Header-Connect-Wallet {
+    font-size: 12px;
+    line-height: 18px;
+    color: #4A4D58;
+
+    @include md {
+      font-size: 14px;
+    }
+
+    span {
+      height: 25px;
+      border-radius: 28px;
+      background: #00FFF0;
+      padding: 3px 12px;
+      cursor: pointer;
+
+      @include md {
+        height: 38px;
+        padding: 10px 15px;
+      }
+    }
+
+    div {
+      display: flex;
+
+      span {
+        padding: 5px 0px 5px 5px;
+      }
+
+      span:nth-child(2) {
+        padding: 5px 10px 5px 5px;
+      }
+
+      .Header-Connect-Wallet-Main {
+        display: flex;
+        align-items: center;
+        width: inherit;
+        padding-left: 4px;
+        background: white;
+        border: 1px solid #00FFF0;
+        border-radius: 19px 0px 0px 19px;
+        overflow: hidden;
+
+        p {
+          width: 0;
+          padding-left: 5px;
+          transition: all 500ms ease;
+        }
+      }
+
+      .Header-Connect-Wallet-Metamask {
+        border: 1px solid #00FFF0;
+        border-radius: 0px 19px 19px 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+
+    div:hover {
+      .Header-Connect-Wallet-Main {
+        p {
+          width: 6.6em;
+        }
+      }
+    }
+  }
+}
+
+.Header.Header-LP {
+  // background-image: url('../images/background-lp.png');
+}
+
+.Header.Header-LPs {
+  // background-image: url('../images/background-lps.png');
+}

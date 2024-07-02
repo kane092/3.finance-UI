@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ParAi",
+    "symbol": "./images/nft-parai.png",
+    "fieldSymbol": "./images/token7.png",
+    "requirementA": 100,
+    "requirementB": 1000
+  },
+  {
+    "name": "TomAi",
+    "symbol": "./images/nft-tomai.png",
+    "fieldSymbol": "./images/token7.png",
+    "requirementA": 1000,
+    "requirementB": 10000
+  },
+  {
+    "name": "MolAi",
+    "symbol": "./images/nft-molai.png",
+    "fieldSymbol": "./images/token7.png",
+    "requirementA": 10000,
+    "requirementB": 100000
+  },
+  {
+    "name": "MatAi",
+    "symbol": "./images/nft-matai.png",
+    "fieldSymbol": "./images/token7.png",
+    "requirementA": 100000,
+    "requirementB": 1000000
+  },
+  {
+    "name": "SorAi",
+    "symbol": "./images/nft-sorai.png",
+    "fieldSymbol": "./images/token7.png",
+    "requirementA": 1000000,
+    "requirementB": 3000000
+  }
+]

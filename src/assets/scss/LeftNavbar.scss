@@ -1,0 +1,102 @@
+.Navbar {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.21) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: sticky;
+  top: 0px;
+  transition: all 900ms;
+  overflow: hidden;
+  .duration-300 {
+    transition-duration: 300ms;
+  }.duration-900 {
+    transition-duration: 900ms;
+  }.duration-1800 {
+    transition-duration: 1800ms;
+  }.Navbar-Main {
+    .Navbar-Main-Right {
+      .Navbar-Body {
+        // width: 270px;
+        // flex-shrink: 0;
+        color: white;
+        margin-bottom: 22px;
+        transition: opacity 300ms, height 1800ms;
+        overflow-y: auto;
+        scrollbar-width: none;
+        .Navbar-Details {
+          // opacity: 0;
+          overflow: clip;
+        }
+        .Navbar-Body-First-Row {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        }
+        .Navbar-Body-Header {
+          font-size: 20px;
+          line-height: 28px;
+          margin: 0px 0px 10px 0px;
+        }
+        .Navbar-Body-Content {
+          font-size: 14px;
+          line-height: 18px;
+          margin: 0px 0px 25px 0px;
+        }
+        .Navbar-Body-Hide {
+          font-size: 14px;
+          line-height: 18px;
+          color: #00fff0;
+          span {
+            cursor: pointer;
+          }
+        }
+      }
+      .Navbar-Body-Selected {
+        // padding: 10px 30px 10px 0px;
+        transition: opacity 300ms, height 1800ms;
+        // transition-delay: 600ms;
+        opacity: 1;
+        .Navbar-Details {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+.Navbar-Hide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .Navbar-Close {
+    justify-content: center;
+  }
+  .Navbar-Main {
+    justify-content: center;
+  }
+}
+.Navbar.table {
+  display: table;
+}
+
+@keyframes show {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+// @keyframes show {
+//   from {top: 200px;}
+//   to {top: 100px;}
+// }
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
